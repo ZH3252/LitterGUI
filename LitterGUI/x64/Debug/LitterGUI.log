@@ -1,0 +1,11 @@
+﻿  LItterGUI.cpp
+  LitterGUI_port.cpp
+C:\APP\Microsoft Visual Studio\Community\VC\Auxiliary\VS\include\easyx.h(45,9): warning C4005: “BLACK”: 宏重定义
+  (编译源文件“LitterGUI_port.cpp”)
+      C:\Users\ZH\Desktop\LitterGUI\LitterGUI.h(25,9):
+      参见“BLACK”的前一个定义
+  
+C:\Users\ZH\Desktop\LitterGUI\LitterGUI_port.cpp(31,16): warning C4244: “参数”: 从“__int64”转换到“COLORREF”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  LitterGUI.vcxproj -> C:\Users\ZH\Desktop\LitterGUI\x64\Debug\LitterGUI.exe
