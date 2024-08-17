@@ -1,0 +1,3 @@
+C:/ZH/LitterGUI/build/CMakeFiles/littergui.dir
+C:/ZH/LitterGUI/build/CMakeFiles/edit_cache.dir
+C:/ZH/LitterGUI/build/CMakeFiles/rebuild_cache.dir

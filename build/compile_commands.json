@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/ZH/LitterGUI/build",
+  "command": "C:/APP/mingw64/bin/gcc.exe  @CMakeFiles/littergui.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles/littergui.dir/src/main.c.obj -c C:/ZH/LitterGUI/src/main.c",
+  "file": "C:/ZH/LitterGUI/src/main.c",
+  "output": "CMakeFiles/littergui.dir/src/main.c.obj"
+}
+]
